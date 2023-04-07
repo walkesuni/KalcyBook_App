@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [KalcyBook_App]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.KalcyBook_App.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="KalcyBook_App Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.KalcyBook_App.testCases.TC_INVOICE_Page_Test_15">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="INVOICE_Page_test"/>
+        </methods>
+      </class> <!-- com.KalcyBook_App.testCases.TC_INVOICE_Page_Test_15 -->
+    </classes>
+  </test> <!-- KalcyBook_App Test(failed) -->
+</suite> <!-- Failed suite [KalcyBook_App] -->

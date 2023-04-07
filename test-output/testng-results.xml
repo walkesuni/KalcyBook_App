@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-27T07:18:28Z" name="KalcyBook_App" finished-at="2023-03-27T07:20:24Z" duration-ms="115450">
+    <groups>
+    </groups>
+    <test started-at="2023-03-27T07:18:28Z" name="KalcyBook_App Test" finished-at="2023-03-27T07:20:24Z" duration-ms="115450">
+      <class name="com.KalcyBook_App.testCases.TC_INVOICE_Page_Test_15">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.KalcyBook_App.testCases.TC_INVOICE_Page_Test_15@2a32de6c]" started-at="2023-03-27T07:18:28Z" name="setup" finished-at="2023-03-27T07:18:33Z" duration-ms="4646" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="INVOICE_Page_test()[pri:0, instance:com.KalcyBook_App.testCases.TC_INVOICE_Page_Test_15@2a32de6c]" started-at="2023-03-27T07:18:33Z" name="INVOICE_Page_test" finished-at="2023-03-27T07:20:23Z" duration-ms="110553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- INVOICE_Page_test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.KalcyBook_App.testCases.TC_INVOICE_Page_Test_15@2a32de6c]" started-at="2023-03-27T07:20:23Z" name="tearDown" finished-at="2023-03-27T07:20:24Z" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.KalcyBook_App.testCases.TC_INVOICE_Page_Test_15 -->
+    </test> <!-- KalcyBook_App Test -->
+  </suite> <!-- KalcyBook_App -->
+</testng-results>

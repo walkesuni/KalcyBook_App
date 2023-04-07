@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="RegressionSuite">
+
+	<listeners>
+			<listener class-name="com.KalcyBook_App.utilities.Reporting"/>
+	</listeners>
+
+
+  <test thread-count="5" name="RegressionTest">
+  <parameter name="browser" value="chrome" />
+    <classes>
+      <class name="com.KalcyBook_App.testCases.TC_LoginTest_001"/>
+    </classes>
+  </test> <!-- RegressionTest -->
+</suite> <!-- RegressionSuite -->

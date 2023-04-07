@@ -1,0 +1,1335 @@
+2023-03-08 18:24:07,181 - KalcyBook_App -INFO - URL is opened
+2023-03-08 18:24:07,719 - KalcyBook_App -INFO - Entered password
+2023-03-08 18:24:13,587 - KalcyBook_App -INFO -  user Entered
+2023-03-08 18:24:23,641 - KalcyBook_App -INFO - Entered password
+2023-03-08 18:24:29,525 - KalcyBook_App -INFO -  user Entered
+2023-03-08 18:24:37,153 - KalcyBook_App -INFO - user click on payment tab
+2023-03-08 18:24:40,282 - KalcyBook_App -INFO - user click on search tab and enter name
+2023-03-08 18:24:43,361 - KalcyBook_App -INFO - user click on checkbox
+2023-03-08 18:24:46,425 - KalcyBook_App -INFO - user click on delete tab 
+2023-03-08 18:24:49,450 - KalcyBook_App -INFO - user click on alert popup
+2023-03-08 18:24:58,372 - KalcyBook_App -INFO - Entered Username
+2023-03-08 18:25:01,467 - KalcyBook_App -INFO - Entered password
+2023-03-08 18:25:07,316 - KalcyBook_App -INFO -  user Entered
+2023-03-08 18:25:11,767 - KalcyBook_App -INFO - user click on payment tab
+2023-03-08 18:25:16,674 - KalcyBook_App -INFO - user click on New button 
+2023-03-08 18:25:19,777 - KalcyBook_App -INFO - user click on SelectLedger tab
+2023-03-08 18:25:22,909 - KalcyBook_App -INFO - user click on SelectLedger Search tab
+2023-03-08 18:25:26,312 - KalcyBook_App -INFO - user click on SelectLedger Search tabindex
+2023-03-08 18:25:29,516 - KalcyBook_App -INFO - user click on paymentdate tab
+2023-03-08 18:25:32,616 - KalcyBook_App -INFO - user click on Select address  tab
+2023-03-08 18:25:35,800 - KalcyBook_App -INFO - user click on Select address Search  tab
+2023-03-08 18:25:41,238 - KalcyBook_App -INFO - user click on SelectAddress Search tabindex
+2023-03-08 18:25:44,462 - KalcyBook_App -INFO - user click on payment type tab
+2023-03-08 18:25:47,616 - KalcyBook_App -INFO - user click on PaymentThrough tab
+2023-03-08 18:25:50,784 - KalcyBook_App -INFO - user click on AdjustmentMethod tab
+2023-03-08 18:25:53,887 - KalcyBook_App -INFO - user click on Narration tab
+2023-03-08 18:25:57,707 - KalcyBook_App -INFO - user click on Submit tab
+2023-03-08 18:26:04,081 - KalcyBook_App -INFO - Entered Username
+2023-03-08 18:26:07,187 - KalcyBook_App -INFO - Entered password
+2023-03-08 18:26:12,963 - KalcyBook_App -INFO -  user Entered in homepage
+2023-03-08 18:26:17,143 - KalcyBook_App -INFO - user click on payment tab
+2023-03-08 18:26:22,137 - KalcyBook_App -INFO - user click on payment tab icon button
+2023-03-08 18:26:25,503 - KalcyBook_App -INFO - user click on Select_Vendor tab
+2023-03-08 18:26:28,700 - KalcyBook_App -INFO - user click on Payment_Date tab
+2023-03-08 18:26:31,792 - KalcyBook_App -INFO - user click on Select_Address tab
+2023-03-08 18:26:34,996 - KalcyBook_App -INFO - user click on Select_Addresssearchtab tab
+2023-03-08 18:26:38,382 - KalcyBook_App -INFO - user click on Select_Address search index tab
+2023-03-08 18:26:41,569 - KalcyBook_App -INFO - user click on Payment_Type tab
+2023-03-08 18:26:44,704 - KalcyBook_App -INFO - user click on Payment_Through tab
+2023-03-08 18:26:47,885 - KalcyBook_App -INFO - user click on Adjustment_Method tab
+2023-03-08 18:26:51,040 - KalcyBook_App -INFO - user click on Narration_tab tab
+2023-03-08 18:26:55,447 - KalcyBook_App -INFO - user click on Updatebutton tab
+2023-03-08 18:27:01,377 - KalcyBook_App -INFO - Entered Username
+2023-03-08 18:27:04,477 - KalcyBook_App -INFO - Entered password
+2023-03-08 18:27:10,289 - KalcyBook_App -INFO -  user Entered in homepage
+2023-03-08 18:27:15,183 - KalcyBook_App -INFO - user click on payment tab
+2023-03-08 18:27:18,829 - KalcyBook_App -INFO - user click on View_Paymenticon
+2023-03-08 18:27:21,983 - KalcyBook_App -INFO - user click on DownloadPayment 
+2023-03-08 18:27:25,062 - KalcyBook_App -INFO - user click on Downloadpayletterhead
+2023-03-08 18:27:29,690 - KalcyBook_App -INFO - user click on Backbutton
+2023-03-08 18:27:35,797 - KalcyBook_App -INFO - Entered Username
+2023-03-08 18:27:38,893 - KalcyBook_App -INFO - Entered password
+2023-03-08 18:27:44,503 - KalcyBook_App -INFO -  user Entered in homepage
+2023-03-08 18:27:48,674 - KalcyBook_App -INFO - user click on payment tab
+2023-03-08 18:27:51,765 - KalcyBook_App -INFO - user click on Download payment Icon button
+2023-03-08 18:27:57,704 - KalcyBook_App -INFO - Entered Username
+2023-03-08 18:28:00,816 - KalcyBook_App -INFO - Entered password
+2023-03-08 18:28:06,479 - KalcyBook_App -INFO -  user Entered in homepage
+2023-03-08 18:28:10,852 - KalcyBook_App -INFO - user click on payment tab
+2023-03-08 18:28:15,955 - KalcyBook_App -INFO - user click on Send payment Icon button
+2023-03-08 18:28:21,988 - KalcyBook_App -INFO - Entered Username
+2023-03-08 18:28:25,090 - KalcyBook_App -INFO - Entered password
+2023-03-08 18:28:30,847 - KalcyBook_App -INFO -  user click on next button and Entered in homepage of kalcybook application
+2023-03-08 18:28:35,174 - KalcyBook_App -INFO - User click on the payment tab button and entered in payment list page
+2023-03-08 18:28:38,306 - KalcyBook_App -INFO - User click on the show entries tab and select 10 value form table
+2023-03-08 18:28:41,398 - KalcyBook_App -INFO - User click on the next button and move to the next page
+2023-03-08 18:28:44,447 - KalcyBook_App -INFO - User click on the next button and move to the next page
+2023-03-08 18:28:47,523 - KalcyBook_App -INFO - User click on the next button and move to the next page
+2023-03-08 18:28:50,601 - KalcyBook_App -INFO - User click on the next button and move to the next page
+2023-03-08 18:28:53,678 - KalcyBook_App -INFO - User click on the next button and move to the next page
+2023-03-08 18:28:56,753 - KalcyBook_App -INFO - User click on the next button and move to the next page
+2023-03-08 18:28:59,824 - KalcyBook_App -INFO - User click on the next button and move to the next page
+2023-03-08 18:29:02,896 - KalcyBook_App -INFO - User click on the next button and move to the next page
+2023-03-08 18:29:05,997 - KalcyBook_App -INFO - User click on the next button and move to the next page
+2023-03-10 21:43:47,337 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-10 21:43:47,434 - KalcyBook_App -INFO - User should be Entered password
+2023-03-10 21:43:58,174 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-10 21:44:09,442 - KalcyBook_App -INFO - user click on payment tab
+2023-03-10 21:44:12,636 - KalcyBook_App -INFO - user click on search tab and enter name Suspense Account
+2023-03-10 21:44:15,709 - KalcyBook_App -INFO - user click on Suspense Account checkbox
+2023-03-10 21:44:18,792 - KalcyBook_App -INFO - user click on delete tab 
+2023-03-10 21:44:21,807 - KalcyBook_App -INFO - user click on Delete tab alert popup
+2023-03-10 22:49:10,228 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-10 22:49:10,391 - KalcyBook_App -INFO - User should be Entered password
+2023-03-10 22:49:19,392 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-10 22:49:27,088 - KalcyBook_App -INFO - user click on payment tab
+2023-03-10 22:49:30,393 - KalcyBook_App -INFO - user click on search tab and enter name Suspense Account
+2023-03-10 22:49:33,469 - KalcyBook_App -INFO - user click on Suspense Account checkbox
+2023-03-10 22:49:36,578 - KalcyBook_App -INFO - user click on delete tab 
+2023-03-10 22:49:39,604 - KalcyBook_App -INFO - user click on Delete tab alert popup
+2023-03-10 23:46:37,282 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-10 23:46:37,396 - KalcyBook_App -INFO - User should be Entered password
+2023-03-10 23:46:44,131 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-10 23:46:48,323 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-10 23:46:52,701 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-10 23:48:08,822 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-10 23:48:08,954 - KalcyBook_App -INFO - User should be Entered password
+2023-03-10 23:48:15,591 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-10 23:48:19,806 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-10 23:48:24,107 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-10 23:52:35,538 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-10 23:52:35,649 - KalcyBook_App -INFO - User should be Entered password
+2023-03-10 23:52:42,075 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-10 23:52:46,242 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-10 23:52:50,118 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-10 23:53:16,775 - KalcyBook_App -INFO - user click on SelectLedger tab
+2023-03-10 23:53:19,962 - KalcyBook_App -INFO - user click on SelectLedger Search tab
+2023-03-10 23:53:23,390 - KalcyBook_App -INFO - user click on SelectLedger Search tab index and entered Firstclient ( Sundry Debtors )
+2023-03-10 23:53:26,570 - KalcyBook_App -INFO - user click on payment date tab and modify date
+2023-03-10 23:54:30,473 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-10 23:54:30,596 - KalcyBook_App -INFO - User should be Entered password
+2023-03-10 23:54:37,100 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-10 23:54:41,286 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-10 23:54:45,127 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-10 23:55:18,873 - KalcyBook_App -INFO - user click on SelectLedger tab
+2023-03-10 23:55:22,059 - KalcyBook_App -INFO - user click on SelectLedger Search tab
+2023-03-11 00:00:26,163 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-11 00:00:26,268 - KalcyBook_App -INFO - User should be Entered password
+2023-03-11 00:00:32,805 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-11 00:00:36,971 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-11 00:00:40,895 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-11 00:00:43,955 - KalcyBook_App -INFO - user click on SelectLedger tab
+2023-03-11 00:00:47,062 - KalcyBook_App -INFO - user click on SelectLedger Search tab
+2023-03-11 00:00:50,278 - KalcyBook_App -INFO - user click on SelectLedger Search tab index and entered Firstclient ( Sundry Debtors )
+2023-03-11 00:00:53,465 - KalcyBook_App -INFO - user click on payment date tab and modify date
+2023-03-11 00:00:56,549 - KalcyBook_App -INFO - user click on Select address  tab
+2023-03-11 00:00:59,722 - KalcyBook_App -INFO - user click on Select address Search  tab
+2023-03-11 00:01:05,143 - KalcyBook_App -INFO - user click on SelectAddress Search tab index and entered Address Office No-409,C-Wing, KPCT Mall, Fathima Nagar, Wanwari 
+2023-03-11 00:01:08,378 - KalcyBook_App -INFO - user click on payment type tab and select cash mode option form dropdown
+2023-03-11 00:04:46,256 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-11 00:04:46,381 - KalcyBook_App -INFO - User should be Entered password
+2023-03-11 00:04:52,992 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-11 00:04:57,273 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-11 00:05:01,550 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-11 00:05:04,624 - KalcyBook_App -INFO - user click on SelectLedger tab
+2023-03-11 00:05:07,755 - KalcyBook_App -INFO - user click on SelectLedger Search tab
+2023-03-11 00:05:11,026 - KalcyBook_App -INFO - user click on SelectLedger Search tab index and entered Firstclient ( Sundry Debtors )
+2023-03-11 00:05:14,245 - KalcyBook_App -INFO - user click on payment date tab and modify date
+2023-03-11 00:05:17,334 - KalcyBook_App -INFO - user click on Select address  tab
+2023-03-11 00:05:20,508 - KalcyBook_App -INFO - user click on Select address Search  tab
+2023-03-11 00:05:25,970 - KalcyBook_App -INFO - user click on SelectAddress Search tab index and entered Address Office No-409,C-Wing, KPCT Mall, Fathima Nagar, Wanwari 
+2023-03-11 00:05:29,206 - KalcyBook_App -INFO - user click on payment type tab and select cash mode option form dropdown
+2023-03-11 00:08:04,086 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-11 00:08:04,226 - KalcyBook_App -INFO - User should be Entered password
+2023-03-11 00:08:11,122 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-11 00:08:15,307 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-11 00:08:19,265 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-11 00:08:22,351 - KalcyBook_App -INFO - user click on SelectLedger tab
+2023-03-11 00:08:25,458 - KalcyBook_App -INFO - user click on SelectLedger Search tab
+2023-03-11 00:08:28,722 - KalcyBook_App -INFO - user click on SelectLedger Search tab index and entered Firstclient ( Sundry Debtors )
+2023-03-11 00:08:31,892 - KalcyBook_App -INFO - user click on payment date tab and modify date
+2023-03-11 00:08:34,985 - KalcyBook_App -INFO - user click on Select address  tab
+2023-03-11 00:08:38,170 - KalcyBook_App -INFO - user click on Select address Search  tab
+2023-03-11 00:08:43,610 - KalcyBook_App -INFO - user click on SelectAddress Search tab index and entered Address Office No-409,C-Wing, KPCT Mall, Fathima Nagar, Wanwari 
+2023-03-11 00:08:46,834 - KalcyBook_App -INFO - user click on payment type tab and select cash mode option form dropdown
+2023-03-11 00:11:06,234 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-11 00:11:06,345 - KalcyBook_App -INFO - User should be Entered password
+2023-03-11 00:11:15,728 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-11 00:11:20,479 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-11 00:11:24,713 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-11 00:11:27,800 - KalcyBook_App -INFO - user click on SelectLedger tab
+2023-03-11 00:11:30,972 - KalcyBook_App -INFO - user click on SelectLedger Search tab
+2023-03-11 00:11:34,239 - KalcyBook_App -INFO - user click on SelectLedger Search tab index and entered Firstclient ( Sundry Debtors )
+2023-03-11 00:11:37,483 - KalcyBook_App -INFO - user click on payment date tab and modify date
+2023-03-11 00:11:40,607 - KalcyBook_App -INFO - user click on Select address  tab
+2023-03-11 00:11:43,901 - KalcyBook_App -INFO - user click on Select address Search  tab
+2023-03-11 00:11:49,369 - KalcyBook_App -INFO - user click on SelectAddress Search tab index and entered Address Office No-409,C-Wing, KPCT Mall, Fathima Nagar, Wanwari 
+2023-03-11 00:11:52,693 - KalcyBook_App -INFO - user click on payment type tab and select cash mode option form dropdown
+2023-03-11 00:13:57,063 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-11 00:13:57,228 - KalcyBook_App -INFO - User should be Entered password
+2023-03-11 00:14:04,356 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-11 00:14:08,750 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-11 00:14:13,277 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-11 00:14:16,367 - KalcyBook_App -INFO - user click on SelectLedger tab
+2023-03-11 00:14:19,539 - KalcyBook_App -INFO - user click on SelectLedger Search tab
+2023-03-11 00:14:23,227 - KalcyBook_App -INFO - user click on SelectLedger Search tab index and entered Firstclient ( Sundry Debtors )
+2023-03-11 00:14:26,469 - KalcyBook_App -INFO - user click on payment date tab and modify date
+2023-03-11 00:14:29,629 - KalcyBook_App -INFO - user click on Select address  tab
+2023-03-11 00:14:32,912 - KalcyBook_App -INFO - user click on Select address Search  tab
+2023-03-11 00:14:38,638 - KalcyBook_App -INFO - user click on SelectAddress Search tab index and entered Address Office No-409,C-Wing, KPCT Mall, Fathima Nagar, Wanwari 
+2023-03-11 00:14:42,028 - KalcyBook_App -INFO - user click on payment type tab and select cash mode option form dropdown
+2023-03-11 00:16:35,089 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-11 00:16:35,256 - KalcyBook_App -INFO - User should be Entered password
+2023-03-11 00:16:42,543 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-11 00:16:46,988 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-11 00:16:51,256 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-11 00:16:54,374 - KalcyBook_App -INFO - user click on SelectLedger tab
+2023-03-11 00:16:57,582 - KalcyBook_App -INFO - user click on SelectLedger Search tab
+2023-03-11 00:17:01,884 - KalcyBook_App -INFO - user click on SelectLedger Search tab index and entered Firstclient ( Sundry Debtors )
+2023-03-11 00:17:05,176 - KalcyBook_App -INFO - user click on payment date tab and modify date
+2023-03-11 00:17:08,293 - KalcyBook_App -INFO - user click on Select address  tab
+2023-03-11 00:17:11,561 - KalcyBook_App -INFO - user click on Select address Search  tab
+2023-03-11 00:17:17,154 - KalcyBook_App -INFO - user click on SelectAddress Search tab index and entered Address Office No-409,C-Wing, KPCT Mall, Fathima Nagar, Wanwari 
+2023-03-11 00:17:20,415 - KalcyBook_App -INFO - user click on payment type tab and select cash mode option form dropdown
+2023-03-11 00:22:27,793 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-11 00:22:27,968 - KalcyBook_App -INFO - User should be Entered password
+2023-03-11 00:22:37,309 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-11 00:22:41,701 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-11 00:22:45,915 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-11 00:22:49,008 - KalcyBook_App -INFO - user click on SelectLedger tab
+2023-03-11 00:22:52,185 - KalcyBook_App -INFO - user click on SelectLedger Search tab
+2023-03-11 00:22:55,456 - KalcyBook_App -INFO - user click on SelectLedger Search tab index and entered Firstclient ( Sundry Debtors )
+2023-03-11 00:22:58,744 - KalcyBook_App -INFO - user click on payment date tab and modify date
+2023-03-11 00:23:01,855 - KalcyBook_App -INFO - user click on Select address  tab
+2023-03-11 00:23:05,153 - KalcyBook_App -INFO - user click on Select address Search  tab
+2023-03-11 00:23:10,602 - KalcyBook_App -INFO - user click on SelectAddress Search tab index and entered Address Office No-409,C-Wing, KPCT Mall, Fathima Nagar, Wanwari 
+2023-03-11 00:25:40,121 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-11 00:25:40,291 - KalcyBook_App -INFO - User should be Entered password
+2023-03-11 00:25:48,207 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-11 00:25:52,822 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-11 00:25:57,185 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-11 00:26:00,279 - KalcyBook_App -INFO - user click on SelectLedger tab
+2023-03-11 00:26:03,497 - KalcyBook_App -INFO - user click on SelectLedger Search tab
+2023-03-11 00:26:07,180 - KalcyBook_App -INFO - user click on SelectLedger Search tab index and entered Firstclient ( Sundry Debtors )
+2023-03-11 00:26:10,477 - KalcyBook_App -INFO - user click on payment date tab and modify date
+2023-03-11 00:26:13,589 - KalcyBook_App -INFO - user click on Select address  tab
+2023-03-11 00:26:16,894 - KalcyBook_App -INFO - user click on Select address Search  tab
+2023-03-11 00:26:22,340 - KalcyBook_App -INFO - user click on SelectAddress Search tab index and entered Address Office No-409,C-Wing, KPCT Mall, Fathima Nagar, Wanwari 
+2023-03-11 00:29:05,858 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-11 00:29:06,024 - KalcyBook_App -INFO - User should be Entered password
+2023-03-11 00:29:14,084 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-11 00:29:18,452 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-11 00:29:22,674 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-11 00:29:25,782 - KalcyBook_App -INFO - user click on SelectLedger tab
+2023-03-11 00:29:28,992 - KalcyBook_App -INFO - user click on SelectLedger Search tab
+2023-03-11 00:29:32,661 - KalcyBook_App -INFO - user click on SelectLedger Search tab index and entered Firstclient ( Sundry Debtors )
+2023-03-11 00:29:35,860 - KalcyBook_App -INFO - user click on payment date tab and modify date
+2023-03-11 00:29:38,972 - KalcyBook_App -INFO - user click on Select address  tab
+2023-03-11 00:29:42,269 - KalcyBook_App -INFO - user click on Select address Search  tab
+2023-03-11 00:29:47,884 - KalcyBook_App -INFO - user click on SelectAddress Search tab index and entered Address Office No-409,C-Wing, KPCT Mall, Fathima Nagar, Wanwari 
+2023-03-11 00:29:51,206 - KalcyBook_App -INFO - user click on payment type tab and select cash mode option form dropdown
+2023-03-11 00:34:13,830 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-11 00:34:13,997 - KalcyBook_App -INFO - User should be Entered password
+2023-03-11 00:34:23,051 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-11 00:34:27,654 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-11 00:34:31,952 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-11 00:34:35,038 - KalcyBook_App -INFO - user click on SelectLedger tab
+2023-03-11 00:34:38,254 - KalcyBook_App -INFO - user click on SelectLedger Search tab
+2023-03-11 00:34:41,883 - KalcyBook_App -INFO - user click on SelectLedger Search tab index and entered Firstclient ( Sundry Debtors )
+2023-03-11 00:34:45,111 - KalcyBook_App -INFO - user click on payment date tab and modify date
+2023-03-11 00:34:48,244 - KalcyBook_App -INFO - user click on Select address  tab
+2023-03-11 00:34:51,526 - KalcyBook_App -INFO - user click on Select address Search  tab
+2023-03-11 00:34:56,968 - KalcyBook_App -INFO - user click on SelectAddress Search tab index and entered Address Office No-409,C-Wing, KPCT Mall, Fathima Nagar, Wanwari 
+2023-03-11 00:35:00,255 - KalcyBook_App -INFO - user click on payment type tab and select cash mode option form dropdown
+2023-03-11 00:41:40,011 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-11 00:41:40,183 - KalcyBook_App -INFO - User should be Entered password
+2023-03-11 00:41:48,767 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-11 00:41:53,107 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-11 00:41:57,395 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-11 00:43:12,408 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-11 00:43:12,578 - KalcyBook_App -INFO - User should be Entered password
+2023-03-11 00:43:20,975 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-11 00:43:25,498 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-11 00:43:29,821 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-11 00:47:25,137 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-11 00:47:25,297 - KalcyBook_App -INFO - User should be Entered password
+2023-03-11 00:47:32,566 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-11 00:47:36,920 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-11 00:47:41,001 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-11 00:47:44,316 - KalcyBook_App -INFO - user click on payment type tab and select cash mode option form dropdown
+2023-03-11 00:49:27,989 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-11 00:49:28,151 - KalcyBook_App -INFO - User should be Entered password
+2023-03-11 00:49:36,150 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-11 00:49:40,559 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-11 00:49:45,960 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-22 11:35:19,630 - KalcyBook_App -INFO - Entered Username
+2023-03-22 11:35:22,729 - KalcyBook_App -INFO - Entered password
+2023-03-22 11:35:28,518 - KalcyBook_App -INFO -  user Entered
+2023-03-22 11:35:32,461 - KalcyBook_App -INFO - user click on payment tab
+2023-03-22 11:35:36,139 - KalcyBook_App -INFO - user click on New button 
+2023-03-22 11:35:39,222 - KalcyBook_App -INFO - user click on SelectLedger tab
+2023-03-22 11:35:42,355 - KalcyBook_App -INFO - user click on SelectLedger Search tab
+2023-03-22 11:35:45,568 - KalcyBook_App -INFO - user click on SelectLedger Search tabindex
+2023-03-22 11:35:48,752 - KalcyBook_App -INFO - user click on paymentdate tab
+2023-03-22 11:35:51,864 - KalcyBook_App -INFO - user click on Select address  tab
+2023-03-22 11:35:55,069 - KalcyBook_App -INFO - user click on Select address Search  tab
+2023-03-22 11:36:00,376 - KalcyBook_App -INFO - user click on SelectAddress Search tabindex
+2023-03-22 11:36:03,623 - KalcyBook_App -INFO - user click on payment type tab
+2023-03-22 11:36:06,781 - KalcyBook_App -INFO - user click on PaymentThrough tab
+2023-03-22 11:36:09,977 - KalcyBook_App -INFO - user click on AdjustmentMethod tab
+2023-03-22 11:36:13,099 - KalcyBook_App -INFO - user click on Narration tab
+2023-03-22 11:36:16,867 - KalcyBook_App -INFO - user click on Submit tab
+2023-03-22 11:39:56,965 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 11:39:57,058 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 11:40:02,605 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 11:40:06,613 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-22 11:40:10,368 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-22 11:43:50,819 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 11:43:50,914 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 11:43:56,581 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 11:44:03,564 - KalcyBook_App -INFO - user click on payment tab
+2023-03-22 11:44:06,794 - KalcyBook_App -INFO - user click on search tab and enter name Suspense Account
+2023-03-22 11:44:09,885 - KalcyBook_App -INFO - user click on Suspense Account checkbox
+2023-03-22 11:44:12,969 - KalcyBook_App -INFO - user click on delete tab 
+2023-03-22 11:44:15,999 - KalcyBook_App -INFO - user click on Delete tab alert popup
+2023-03-22 11:50:36,773 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 11:50:36,863 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 11:50:42,504 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 11:50:46,530 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-22 11:50:50,163 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-22 11:53:38,801 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 11:53:38,889 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 11:53:45,042 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 11:53:49,297 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-22 11:53:53,080 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-22 11:53:56,146 - KalcyBook_App -INFO - user click on SelectLedger tab
+2023-03-22 11:53:59,284 - KalcyBook_App -INFO - user click on SelectLedger Search tab
+2023-03-22 11:54:02,476 - KalcyBook_App -INFO - user click on SelectLedger Search tab index and entered Firstclient ( Sundry Debtors )
+2023-03-22 11:54:05,683 - KalcyBook_App -INFO - user click on payment date tab and modify date
+2023-03-22 11:54:08,787 - KalcyBook_App -INFO - user click on Select address  tab
+2023-03-22 11:54:11,970 - KalcyBook_App -INFO - user click on Select address Search  tab
+2023-03-22 11:54:17,268 - KalcyBook_App -INFO - user click on SelectAddress Search tab index and entered Address Office No-409,C-Wing, KPCT Mall, Fathima Nagar, Wanwari 
+2023-03-22 11:56:07,821 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 11:56:07,908 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 11:56:13,721 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 11:56:17,683 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-22 11:56:21,664 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-22 11:56:24,758 - KalcyBook_App -INFO - user click on SelectLedger tab
+2023-03-22 11:56:27,898 - KalcyBook_App -INFO - user click on SelectLedger Search tab
+2023-03-22 11:56:31,110 - KalcyBook_App -INFO - user click on SelectLedger Search tab index and entered Firstclient ( Sundry Debtors )
+2023-03-22 11:56:34,313 - KalcyBook_App -INFO - user click on payment date tab and modify date
+2023-03-22 11:56:37,440 - KalcyBook_App -INFO - user click on Select address  tab
+2023-03-22 11:56:40,640 - KalcyBook_App -INFO - user click on Select address Search  tab
+2023-03-22 11:56:45,979 - KalcyBook_App -INFO - user click on SelectAddress Search tab index and entered Address Office No-409,C-Wing, KPCT Mall, Fathima Nagar, Wanwari 
+2023-03-22 11:56:49,195 - KalcyBook_App -INFO - user click on payment type tab and select cash mode option form dropdown
+2023-03-22 12:00:25,581 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 12:00:25,678 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 12:00:31,460 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 12:00:35,351 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-22 12:00:39,093 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-22 12:00:42,158 - KalcyBook_App -INFO - user click on SelectLedger tab
+2023-03-22 12:00:45,296 - KalcyBook_App -INFO - user click on SelectLedger Search tab
+2023-03-22 12:00:48,491 - KalcyBook_App -INFO - user click on SelectLedger Search tab index and entered Firstclient ( Sundry Debtors )
+2023-03-22 12:00:51,690 - KalcyBook_App -INFO - user click on payment date tab and modify date
+2023-03-22 12:00:54,784 - KalcyBook_App -INFO - user click on Select address  tab
+2023-03-22 12:00:57,969 - KalcyBook_App -INFO - user click on Select address Search  tab
+2023-03-22 12:01:03,287 - KalcyBook_App -INFO - user click on SelectAddress Search tab index and entered Address Office No-409,C-Wing, KPCT Mall, Fathima Nagar, Wanwari 
+2023-03-22 12:01:06,529 - KalcyBook_App -INFO - user click on payment type tab and select cash mode option form dropdown
+2023-03-22 12:05:46,228 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 12:05:46,325 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 12:05:52,873 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 12:05:57,172 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-22 12:06:04,763 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-22 12:06:07,855 - KalcyBook_App -INFO - user click on SelectLedger tab
+2023-03-22 12:06:10,992 - KalcyBook_App -INFO - user click on SelectLedger Search tab
+2023-03-22 12:06:14,318 - KalcyBook_App -INFO - user click on SelectLedger Search tab index and entered Firstclient ( Sundry Debtors )
+2023-03-22 12:06:17,502 - KalcyBook_App -INFO - user click on payment date tab and modify date
+2023-03-22 12:06:20,600 - KalcyBook_App -INFO - user click on Select address  tab
+2023-03-22 12:06:23,801 - KalcyBook_App -INFO - user click on Select address Search  tab
+2023-03-22 12:06:29,089 - KalcyBook_App -INFO - user click on SelectAddress Search tab index and entered Address Office No-409,C-Wing, KPCT Mall, Fathima Nagar, Wanwari 
+2023-03-22 12:06:32,337 - KalcyBook_App -INFO - user click on payment type tab and select cash mode option form dropdown
+2023-03-22 12:06:35,576 - KalcyBook_App -INFO - user click on PaymentThrough tab
+2023-03-22 12:06:38,786 - KalcyBook_App -INFO - user click on AdjustmentMethod tab and select Against Bills 
+2023-03-22 12:06:41,937 - KalcyBook_App -INFO - user click on Narration tab and menstion bill paid charge update
+2023-03-22 12:06:45,589 - KalcyBook_App -INFO - user click on Submit tab and close add receipt page
+2023-03-22 13:04:27,963 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 13:04:31,091 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 13:04:37,435 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 13:04:41,861 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-22 13:04:45,715 - KalcyBook_App -INFO - user click on Receipt tab icon button and entered in edit receipt page
+2023-03-22 13:04:48,989 - KalcyBook_App -INFO - user click on Select_Vendor tab
+2023-03-22 13:04:52,282 - KalcyBook_App -INFO - user click on Payment_Date tab
+2023-03-22 13:51:35,362 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 13:51:38,470 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 13:51:44,236 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 13:51:48,293 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-22 13:51:52,000 - KalcyBook_App -INFO - user click on Receipt tab icon button and entered in edit receipt page
+2023-03-22 13:51:55,222 - KalcyBook_App -INFO - user click on Select_Vendor tab
+2023-03-22 13:51:58,489 - KalcyBook_App -INFO - user click on Payment_Date tab
+2023-03-22 14:04:34,188 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 14:04:34,342 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 14:04:40,664 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 14:04:44,891 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-22 14:04:48,921 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-22 14:04:52,068 - KalcyBook_App -INFO - user click on SelectLedger tab
+2023-03-22 14:04:55,293 - KalcyBook_App -INFO - user click on SelectLedger Search tab
+2023-03-22 14:04:58,640 - KalcyBook_App -INFO - user click on SelectLedger Search tab index and entered Firstclient ( Sundry Debtors )
+2023-03-22 14:05:01,947 - KalcyBook_App -INFO - user click on payment date tab and modify date
+2023-03-22 14:05:05,143 - KalcyBook_App -INFO - user click on Select address  tab
+2023-03-22 14:05:08,442 - KalcyBook_App -INFO - user click on Select address Search  tab
+2023-03-22 14:05:13,747 - KalcyBook_App -INFO - user click on SelectAddress Search tab index and entered Address Office No-409,C-Wing, KPCT Mall, Fathima Nagar, Wanwari 
+2023-03-22 14:05:17,070 - KalcyBook_App -INFO - user click on payment type tab and select cash mode option form dropdown
+2023-03-22 14:05:20,338 - KalcyBook_App -INFO - user click on PaymentThrough tab
+2023-03-22 14:05:23,587 - KalcyBook_App -INFO - user click on AdjustmentMethod tab and select Against Bills 
+2023-03-22 14:05:26,788 - KalcyBook_App -INFO - user click on Narration tab and menstion bill paid charge update
+2023-03-22 14:05:30,436 - KalcyBook_App -INFO - user click on Submit tab and close add receipt page
+2023-03-22 14:39:29,593 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 14:39:32,732 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 14:39:38,750 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 14:39:43,057 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-22 14:39:46,862 - KalcyBook_App -INFO - user click on Receipt tab icon button and entered in edit receipt page
+2023-03-22 14:39:50,112 - KalcyBook_App -INFO - user click on Select_Vendor tab
+2023-03-22 14:39:53,395 - KalcyBook_App -INFO - user click on Payment_Date tab
+2023-03-22 14:39:56,526 - KalcyBook_App -INFO - user click on Select_Address tab
+2023-03-22 14:39:59,877 - KalcyBook_App -INFO - user click on Select_Addresssearchtab tab
+2023-03-22 14:40:02,972 - KalcyBook_App -INFO - user click on Select_Address search index tab
+2023-03-22 14:40:06,212 - KalcyBook_App -INFO - user click on Payment_Type tab
+2023-03-22 14:42:43,543 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 14:42:43,665 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 14:42:49,749 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 14:42:53,961 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-22 14:42:57,981 - KalcyBook_App -INFO - user click on New button in Receipt list page and open add Receipt page
+2023-03-22 14:43:01,085 - KalcyBook_App -INFO - user click on SelectLedger tab
+2023-03-22 14:43:04,276 - KalcyBook_App -INFO - user click on SelectLedger Search tab
+2023-03-22 14:47:33,849 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 14:47:36,980 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 14:47:43,173 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 14:47:47,638 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-22 14:47:51,496 - KalcyBook_App -INFO - user click on Receipt tab icon button and entered in edit receipt page
+2023-03-22 14:47:54,773 - KalcyBook_App -INFO - user click on Select_Vendor tab
+2023-03-22 14:47:58,064 - KalcyBook_App -INFO - user click on Payment_Date tab
+2023-03-22 14:48:01,243 - KalcyBook_App -INFO - user click on Select_Address tab
+2023-03-22 14:48:04,581 - KalcyBook_App -INFO - user click on Select_Addresssearchtab tab
+2023-03-22 14:48:07,656 - KalcyBook_App -INFO - user click on Select_Address search index tab
+2023-03-22 14:48:10,884 - KalcyBook_App -INFO - user click on Payment_Type tab
+2023-03-22 14:52:31,295 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 14:52:34,436 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 14:52:40,503 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 14:52:47,003 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-22 14:52:50,851 - KalcyBook_App -INFO - user click on Receipt tab icon button and entered in edit receipt page
+2023-03-22 14:52:54,080 - KalcyBook_App -INFO - user click on Select_Vendor tab
+2023-03-22 14:52:57,413 - KalcyBook_App -INFO - user click on Payment_Date tab
+2023-03-22 14:53:00,573 - KalcyBook_App -INFO - user click on Select_Address tab
+2023-03-22 14:53:03,865 - KalcyBook_App -INFO - user click on Select_Addresssearchtab tab
+2023-03-22 14:53:06,974 - KalcyBook_App -INFO - user click on Select_Address search index tab
+2023-03-22 14:53:10,178 - KalcyBook_App -INFO - user click on Payment_Type tab
+2023-03-22 14:56:34,185 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 14:56:37,322 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 14:56:43,467 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 14:56:47,930 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-22 14:56:51,691 - KalcyBook_App -INFO - user click on Receipt tab icon button and entered in edit receipt page
+2023-03-22 14:56:54,966 - KalcyBook_App -INFO - user click on Select_Vendor tab
+2023-03-22 14:56:58,236 - KalcyBook_App -INFO - user click on Payment_Date tab
+2023-03-22 14:57:01,344 - KalcyBook_App -INFO - user click on Select_Address tab
+2023-03-22 14:57:04,662 - KalcyBook_App -INFO - user click on Select_Addresssearchtab tab
+2023-03-22 14:57:07,735 - KalcyBook_App -INFO - user click on Select_Address search index tab
+2023-03-22 14:57:10,918 - KalcyBook_App -INFO - user click on Payment_Type tab
+2023-03-22 14:59:08,533 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 14:59:11,659 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 14:59:18,132 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 14:59:24,026 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-22 14:59:27,911 - KalcyBook_App -INFO - user click on Receipt tab icon button and entered in edit receipt page
+2023-03-22 14:59:31,194 - KalcyBook_App -INFO - user click on Select_Vendor tab
+2023-03-22 14:59:34,548 - KalcyBook_App -INFO - user click on Payment_Date tab
+2023-03-22 14:59:37,657 - KalcyBook_App -INFO - user click on Select_Address tab
+2023-03-22 14:59:40,940 - KalcyBook_App -INFO - user click on Select_Addresssearchtab tab
+2023-03-22 14:59:44,008 - KalcyBook_App -INFO - user click on Select_Address search index tab
+2023-03-22 14:59:47,252 - KalcyBook_App -INFO - user click on Payment_Type tab
+2023-03-22 14:59:50,513 - KalcyBook_App -INFO - user click on Received At tab
+2023-03-22 14:59:53,826 - KalcyBook_App -INFO - user click on Adjustment_Method tab
+2023-03-22 14:59:57,125 - KalcyBook_App -INFO - user click on Narration_tab tab
+2023-03-22 15:04:10,411 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 15:04:13,565 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 15:04:19,858 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 15:04:24,304 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-22 15:04:28,292 - KalcyBook_App -INFO - user click on Receipt tab icon button and entered in edit receipt page
+2023-03-22 15:04:31,607 - KalcyBook_App -INFO - user click on Select_Vendor tab
+2023-03-22 15:04:35,064 - KalcyBook_App -INFO - user click on Payment_Date tab
+2023-03-22 15:04:38,238 - KalcyBook_App -INFO - user click on Select_Address tab
+2023-03-22 15:04:41,545 - KalcyBook_App -INFO - user click on Select_Addresssearchtab tab
+2023-03-22 15:04:44,613 - KalcyBook_App -INFO - user click on Select_Address search index tab
+2023-03-22 15:04:47,878 - KalcyBook_App -INFO - user click on Payment_Type tab
+2023-03-22 15:04:51,139 - KalcyBook_App -INFO - user click on Received At tab
+2023-03-22 15:04:54,600 - KalcyBook_App -INFO - user click on Adjustment_Method tab
+2023-03-22 15:04:57,835 - KalcyBook_App -INFO - user click on Narration_tab
+2023-03-22 15:05:02,454 - KalcyBook_App -INFO - user click on Update_button tab
+2023-03-22 15:07:54,803 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 15:07:57,958 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 15:08:04,297 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 15:08:09,071 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-22 15:08:13,037 - KalcyBook_App -INFO - user click on Receipt tab icon button and entered in edit receipt page
+2023-03-22 15:08:16,352 - KalcyBook_App -INFO - user click on Select_Vendor tab
+2023-03-22 15:08:19,633 - KalcyBook_App -INFO - user click on Payment_Date tab
+2023-03-22 15:08:22,743 - KalcyBook_App -INFO - user click on Select_Address tab
+2023-03-22 15:08:26,050 - KalcyBook_App -INFO - user click on Select_Addresssearchtab tab
+2023-03-22 15:08:29,143 - KalcyBook_App -INFO - user click on Select_Address search index tab
+2023-03-22 15:08:32,399 - KalcyBook_App -INFO - user click on Payment_Type tab
+2023-03-22 15:08:35,646 - KalcyBook_App -INFO - user click on Received At tab
+2023-03-22 15:08:38,900 - KalcyBook_App -INFO - user click on Adjustment_Method tab
+2023-03-22 15:08:42,196 - KalcyBook_App -INFO - user click on Narration_tab
+2023-03-22 15:08:46,626 - KalcyBook_App -INFO - user click on Update_button tab
+2023-03-22 16:37:19,011 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 16:37:22,131 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 16:37:27,908 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 16:37:31,007 - KalcyBook_App -INFO - user click_on_Bank_button_Tab and entered in Bank_Transaction list Dropdown
+2023-03-22 16:37:36,650 - KalcyBook_App -INFO - user click_on Bank_Transaction tab
+2023-03-22 16:41:05,112 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 16:41:08,213 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 16:41:13,907 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 16:41:16,987 - KalcyBook_App -INFO - user click_on_Bank_button_Tab and entered in Bank_Transaction list Dropdown
+2023-03-22 16:41:22,584 - KalcyBook_App -INFO - user click_on Bank_Transaction tab
+2023-03-22 16:42:50,680 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 16:42:53,798 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 16:42:59,330 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 16:43:02,407 - KalcyBook_App -INFO - user click_on_Bank_button_Tab and entered in Bank_Transaction list Dropdown
+2023-03-22 16:43:08,903 - KalcyBook_App -INFO - user click_on Bank_Transaction tab
+2023-03-22 16:46:58,376 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 16:47:01,487 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 16:47:07,286 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 16:47:10,361 - KalcyBook_App -INFO - user click_on_Bank_button_Tab and entered in Bank_Transaction list Dropdown
+2023-03-22 16:47:16,298 - KalcyBook_App -INFO - user click_on Bank_Transaction tab
+2023-03-22 16:47:19,511 - KalcyBook_App -INFO - user click_on Select_Bank_Ledger dropdown
+2023-03-22 16:47:22,636 - KalcyBook_App -INFO - user click_on Choose_file_Tab
+2023-03-22 16:47:28,002 - KalcyBook_App -INFO - user click_on Submit_button_Tab
+2023-03-22 16:47:31,150 - KalcyBook_App -INFO - user click_on Download_sample_sheet
+2023-03-22 16:48:13,614 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 16:48:16,746 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 16:48:22,979 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 16:48:26,124 - KalcyBook_App -INFO - user click_on_Bank_button_Tab and entered in Bank_Transaction list Dropdown
+2023-03-22 16:48:33,554 - KalcyBook_App -INFO - user click_on Bank_Transaction tab
+2023-03-22 16:48:36,987 - KalcyBook_App -INFO - user click_on Select_Bank_Ledger dropdown
+2023-03-22 16:48:40,090 - KalcyBook_App -INFO - user click_on Choose_file_Tab
+2023-03-22 16:48:45,729 - KalcyBook_App -INFO - user click_on Submit_button_Tab
+2023-03-22 16:48:48,893 - KalcyBook_App -INFO - user click_on Download_sample_sheet
+2023-03-22 16:55:44,668 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 16:55:47,811 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 16:55:54,455 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 16:55:57,596 - KalcyBook_App -INFO - user click_on_Bank_button_Tab and entered in Bank_Transaction list Dropdown
+2023-03-22 16:56:03,057 - KalcyBook_App -INFO - user click_on Bank_Transaction tab
+2023-03-22 16:56:06,356 - KalcyBook_App -INFO - user click_on Select_Bank_Ledger dropdown
+2023-03-22 16:56:09,417 - KalcyBook_App -INFO - user click_on Choose_file_Tab
+2023-03-22 16:56:15,332 - KalcyBook_App -INFO - user click_on Submit_button_Tab
+2023-03-22 16:56:18,491 - KalcyBook_App -INFO - user click_on Download_sample_sheet
+2023-03-22 16:59:34,130 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-22 16:59:37,277 - KalcyBook_App -INFO - User should be Entered password
+2023-03-22 16:59:43,644 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-22 16:59:48,202 - KalcyBook_App -INFO - user click on Receipt tab and entered in Receipt list page
+2023-03-22 16:59:52,072 - KalcyBook_App -INFO - user click on Receipt tab icon button and entered in edit receipt page
+2023-03-22 16:59:55,375 - KalcyBook_App -INFO - user click on Select_Vendor tab
+2023-03-22 16:59:58,706 - KalcyBook_App -INFO - user click on Payment_Date tab
+2023-03-22 17:00:01,868 - KalcyBook_App -INFO - user click on Select_Address tab
+2023-03-22 17:00:05,200 - KalcyBook_App -INFO - user click on Select_Addresssearchtab tab
+2023-03-22 17:00:08,277 - KalcyBook_App -INFO - user click on Select_Address search index tab
+2023-03-22 17:00:11,541 - KalcyBook_App -INFO - user click on Payment_Type tab
+2023-03-22 17:00:14,786 - KalcyBook_App -INFO - user click on Received At tab
+2023-03-22 17:00:18,043 - KalcyBook_App -INFO - user click on Adjustment_Method tab
+2023-03-22 17:00:21,303 - KalcyBook_App -INFO - user click on Narration_tab
+2023-03-22 17:00:25,790 - KalcyBook_App -INFO - user click on Update_button tab
+2023-03-23 14:10:08,159 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-23 14:10:11,320 - KalcyBook_App -INFO - User should be Entered password
+2023-03-23 14:10:22,016 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-23 14:11:30,247 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-23 14:11:33,366 - KalcyBook_App -INFO - User should be Entered password
+2023-03-23 14:11:40,851 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-23 14:14:08,867 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-23 14:14:11,986 - KalcyBook_App -INFO - User should be Entered password
+2023-03-23 14:14:20,240 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-23 14:26:41,492 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-23 14:26:44,587 - KalcyBook_App -INFO - User should be Entered password
+2023-03-23 14:26:52,112 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-23 14:38:56,839 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-23 14:38:59,959 - KalcyBook_App -INFO - User should be Entered password
+2023-03-23 14:39:11,015 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-23 14:39:15,694 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-23 14:39:18,779 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-23 14:42:20,957 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-23 14:42:24,065 - KalcyBook_App -INFO - User should be Entered password
+2023-03-23 14:42:31,531 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-23 14:42:34,604 - KalcyBook_App -INFO - user click_on_Bank_button_Tab and entered in Bank_Transaction list Dropdown
+2023-03-23 14:42:40,848 - KalcyBook_App -INFO - user click_on Bank_Transaction tab
+2023-03-23 14:42:44,082 - KalcyBook_App -INFO - user click_on Select_Bank_Ledger dropdown
+2023-03-23 14:42:47,174 - KalcyBook_App -INFO - user click_on Choose_file_Tab
+2023-03-23 14:42:53,842 - KalcyBook_App -INFO - user click_on Submit_button_Tab
+2023-03-23 14:42:57,115 - KalcyBook_App -INFO - user click_on Download_sample_sheet
+2023-03-23 14:55:19,847 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-23 14:55:22,949 - KalcyBook_App -INFO - User should be Entered password
+2023-03-23 14:55:30,404 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-23 14:55:35,305 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-23 14:55:38,376 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-23 14:55:41,473 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-23 19:44:35,352 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-23 19:44:38,490 - KalcyBook_App -INFO - User should be Entered password
+2023-03-23 19:44:46,734 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-23 19:44:52,564 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-23 19:44:55,701 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-23 19:44:58,819 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-23 19:48:32,145 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-23 19:48:35,290 - KalcyBook_App -INFO - User should be Entered password
+2023-03-23 19:48:45,273 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-23 19:48:50,510 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-23 19:48:53,639 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-23 19:48:56,772 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-23 19:48:59,875 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-23 19:49:02,997 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-23 19:49:06,128 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-23 23:06:34,414 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-23 23:06:37,567 - KalcyBook_App -INFO - User should be Entered password
+2023-03-23 23:06:46,129 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-23 23:06:51,519 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-23 23:06:54,608 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-23 23:06:57,747 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-23 23:07:00,868 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-23 23:07:03,942 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-23 23:07:07,074 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-23 23:28:15,066 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-23 23:28:18,214 - KalcyBook_App -INFO - User should be Entered password
+2023-03-23 23:28:35,893 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-23 23:28:40,919 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-23 23:28:44,044 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-23 23:28:47,181 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-23 23:28:50,273 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-23 23:28:53,364 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-23 23:28:56,507 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 00:04:49,661 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 00:04:52,820 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 00:05:01,804 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 00:05:08,012 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 00:05:11,154 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 00:05:14,282 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 00:05:17,392 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 00:05:20,476 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 00:05:23,619 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 00:05:26,965 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 00:11:21,491 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 00:11:24,667 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 00:11:33,889 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 00:11:39,573 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 00:11:42,706 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 00:11:45,848 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 00:11:48,931 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 00:11:52,021 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 00:11:55,152 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 00:11:58,461 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 00:23:59,077 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 00:24:02,231 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 00:24:11,031 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 00:24:16,687 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 00:24:19,808 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 00:24:22,923 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 00:24:26,023 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 00:24:29,139 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 00:24:32,286 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 00:24:35,563 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 00:30:16,790 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 00:30:19,947 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 00:30:29,085 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 00:30:35,282 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 00:30:38,412 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 00:30:41,542 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 00:30:44,632 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 00:30:47,714 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 00:30:50,866 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 00:30:54,196 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 00:30:57,710 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 00:35:02,699 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 00:35:05,856 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 00:35:14,979 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 00:35:22,023 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 00:35:25,158 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 00:35:28,292 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 00:35:31,395 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 00:35:34,481 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 00:35:37,578 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 00:35:40,925 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 00:35:44,569 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 00:46:44,658 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 00:46:47,833 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 00:46:56,724 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 00:47:03,217 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 00:47:06,353 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 00:47:09,469 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 00:47:12,571 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 00:47:15,689 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 00:47:18,813 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 00:47:22,089 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 00:47:25,503 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 00:55:41,247 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 00:55:44,375 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 00:55:51,920 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 00:55:56,750 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 00:55:59,871 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 00:56:02,992 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 00:56:06,091 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 00:56:09,186 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 00:56:12,279 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 00:56:15,564 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 00:56:18,983 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 01:30:29,645 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 01:30:32,760 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 01:30:59,134 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 01:31:03,835 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 01:31:06,972 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 01:31:10,084 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 01:31:13,197 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 01:31:16,306 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 01:31:19,426 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 01:31:22,692 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 01:31:26,088 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 12:03:58,598 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 12:04:01,708 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 12:04:08,868 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 12:04:13,934 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 12:04:17,029 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 12:04:20,116 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 12:04:23,205 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 12:04:26,276 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 12:04:29,349 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 12:04:32,598 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 12:04:35,960 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 12:18:17,697 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 12:18:20,820 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 12:18:28,258 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 12:18:37,112 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 12:18:40,208 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 12:18:43,304 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 12:18:46,411 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 12:18:49,482 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 12:18:52,568 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 12:18:55,788 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 12:18:59,127 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 13:15:37,213 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 13:15:40,328 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 13:15:47,830 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 13:15:52,733 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 13:15:55,820 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 13:15:58,916 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 13:16:02,013 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 13:16:05,089 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 13:16:08,184 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 13:16:11,270 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-03-24 13:20:06,842 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 13:20:09,944 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 13:20:17,623 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 13:20:22,791 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 13:20:25,923 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 13:20:28,993 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 13:20:32,101 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 13:20:35,173 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 13:20:38,289 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 13:20:41,380 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-03-24 13:28:18,301 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 13:28:21,413 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 13:28:28,947 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 13:28:34,818 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 13:28:37,885 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 13:28:41,004 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 13:28:44,135 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 13:28:47,222 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 13:28:50,346 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 13:28:53,439 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-03-24 13:28:56,691 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 13:34:13,011 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 13:34:16,116 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 13:34:23,478 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 13:34:30,156 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 13:34:33,223 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 13:34:36,352 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 13:34:39,414 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 13:34:42,480 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 13:34:45,558 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 13:34:48,643 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-03-24 13:34:51,922 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 13:34:55,292 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 13:34:59,888 - KalcyBook_App -INFO - user click on Edit_Invoice button tab
+2023-03-24 13:38:37,634 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 13:38:40,731 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 13:38:48,413 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 13:38:54,538 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 13:38:57,615 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 13:39:00,705 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 13:39:03,808 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 13:39:06,879 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 13:39:09,955 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 13:39:13,043 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-03-24 13:39:16,256 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 13:39:19,601 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 13:39:24,291 - KalcyBook_App -INFO - user click on Edit_Invoice button tab
+2023-03-24 13:39:27,455 - KalcyBook_App -INFO - user click on Select_Client and select the client Firstclient ( Sundry Debtors ) form dropdown button tab
+2023-03-24 13:39:30,731 - KalcyBook_App -INFO - user click on Date button tab
+2023-03-24 13:39:33,900 - KalcyBook_App -INFO - user click on Billing_Address button tab
+2023-03-24 13:39:37,158 - KalcyBook_App -INFO - user click on Due_Date button tab
+2023-03-24 13:39:40,328 - KalcyBook_App -INFO - user click on Shipping_Address button tab
+2023-03-24 13:39:43,508 - KalcyBook_App -INFO - user click on Product button tab
+2023-03-24 13:39:46,640 - KalcyBook_App -INFO - user click on Qty button tab
+2023-03-24 13:39:49,793 - KalcyBook_App -INFO - user click on Discount button tab
+2023-03-24 13:39:52,909 - KalcyBook_App -INFO - user click on Add_more_row button tab
+2023-03-24 13:39:56,011 - KalcyBook_App -INFO - user click on Delete_row button tab
+2023-03-24 13:39:59,022 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 14:24:17,870 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 14:24:20,989 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 14:24:31,604 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 14:24:37,543 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 14:24:40,626 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 14:24:43,777 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 14:24:46,860 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 14:24:49,926 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 14:24:53,003 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 14:24:56,082 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-03-24 14:24:59,320 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 14:25:02,695 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 14:25:07,767 - KalcyBook_App -INFO - user click on Edit_Invoice button tab
+2023-03-24 14:25:10,983 - KalcyBook_App -INFO - user click on Select_Client and select the client Firstclient ( Sundry Debtors ) form dropdown button tab
+2023-03-24 14:25:14,228 - KalcyBook_App -INFO - user click on Date button tab
+2023-03-24 14:25:17,406 - KalcyBook_App -INFO - user click on Billing_Address button tab
+2023-03-24 14:25:20,668 - KalcyBook_App -INFO - user click on Due_Date button tab
+2023-03-24 14:25:23,846 - KalcyBook_App -INFO - user click on Shipping_Address button tab
+2023-03-24 14:25:27,024 - KalcyBook_App -INFO - user click on Product button tab
+2023-03-24 14:25:30,181 - KalcyBook_App -INFO - user click on Qty button tab
+2023-03-24 14:25:33,368 - KalcyBook_App -INFO - user click on Discount button tab
+2023-03-24 14:25:36,451 - KalcyBook_App -INFO - user click on Add_more_row button tab
+2023-03-24 14:25:39,535 - KalcyBook_App -INFO - user click on Delete_row button tab
+2023-03-24 14:25:42,639 - KalcyBook_App -INFO - user click on Update_button_tab
+2023-03-24 14:27:07,150 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 14:27:10,263 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 14:27:19,708 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 14:27:27,670 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 14:27:30,744 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 14:27:33,817 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 14:27:36,908 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 14:27:39,978 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 14:27:43,049 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 14:27:46,113 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-03-24 14:27:49,373 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 14:27:52,881 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 14:27:57,777 - KalcyBook_App -INFO - user click on Edit_Invoice button tab
+2023-03-24 14:28:00,957 - KalcyBook_App -INFO - user click on Select_Client and select the client Firstclient ( Sundry Debtors ) form dropdown button tab
+2023-03-24 14:28:04,196 - KalcyBook_App -INFO - user click on Date button tab
+2023-03-24 14:28:07,377 - KalcyBook_App -INFO - user click on Billing_Address button tab
+2023-03-24 14:28:10,638 - KalcyBook_App -INFO - user click on Due_Date button tab
+2023-03-24 14:28:13,864 - KalcyBook_App -INFO - user click on Shipping_Address button tab
+2023-03-24 14:28:17,034 - KalcyBook_App -INFO - user click on Product button tab
+2023-03-24 14:28:20,197 - KalcyBook_App -INFO - user click on Qty button tab
+2023-03-24 14:28:23,367 - KalcyBook_App -INFO - user click on Discount button tab
+2023-03-24 14:28:26,438 - KalcyBook_App -INFO - user click on Add_more_row button tab
+2023-03-24 14:28:29,528 - KalcyBook_App -INFO - user click on Delete_row button tab
+2023-03-24 14:28:33,701 - KalcyBook_App -INFO - user click on Update_button_tab
+2023-03-24 15:23:26,386 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 15:23:29,492 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 15:23:37,187 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 15:24:36,433 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 15:24:39,553 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 15:24:48,820 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 15:24:55,141 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 15:24:58,272 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 15:25:01,408 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 15:25:04,516 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 15:25:07,627 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 15:25:10,760 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 15:25:13,898 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-03-24 15:25:17,211 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 15:25:20,611 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 15:25:37,887 - KalcyBook_App -INFO - user click on Edit_Invoice button tab
+2023-03-24 15:25:41,146 - KalcyBook_App -INFO - user click on Select_Client and select the client Firstclient ( Sundry Debtors ) form dropdown button tab
+2023-03-24 15:25:44,580 - KalcyBook_App -INFO - user click on Date button tab
+2023-03-24 15:25:47,912 - KalcyBook_App -INFO - user click on Billing_Address button tab
+2023-03-24 15:25:51,262 - KalcyBook_App -INFO - user click on Due_Date button tab
+2023-03-24 15:25:54,557 - KalcyBook_App -INFO - user click on Shipping_Address button tab
+2023-03-24 15:25:57,824 - KalcyBook_App -INFO - user click on Product button tab
+2023-03-24 15:26:01,043 - KalcyBook_App -INFO - user click on Qty button tab
+2023-03-24 15:26:04,281 - KalcyBook_App -INFO - user click on Discount button tab
+2023-03-24 15:26:07,441 - KalcyBook_App -INFO - user click on Add_more_row button tab
+2023-03-24 15:26:10,583 - KalcyBook_App -INFO - user click on Delete_row button tab
+2023-03-24 15:26:13,817 - KalcyBook_App -INFO - user click on Note_tab
+2023-03-24 15:26:16,912 - KalcyBook_App -INFO - user click on Attachment tab
+2023-03-24 15:26:20,231 - KalcyBook_App -INFO - user click on Addition_Roundup_button_tab
+2023-03-24 15:26:23,426 - KalcyBook_App -INFO - user click on Round_up_valu_button_tab
+2023-03-24 15:26:30,268 - KalcyBook_App -INFO - user click on Update_button_tab
+2023-03-24 15:29:46,602 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 15:29:49,732 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 15:29:58,628 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 15:30:04,425 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 15:30:07,543 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 15:30:10,640 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 15:30:13,765 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 15:30:16,860 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 15:30:20,012 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 15:30:23,149 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-03-24 15:30:26,458 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 15:30:29,935 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 15:30:34,745 - KalcyBook_App -INFO - user click on Edit_Invoice button tab
+2023-03-24 15:30:38,022 - KalcyBook_App -INFO - user click on Select_Client and select the client Firstclient ( Sundry Debtors ) form dropdown button tab
+2023-03-24 15:30:41,400 - KalcyBook_App -INFO - user click on Date button tab
+2023-03-24 15:30:44,617 - KalcyBook_App -INFO - user click on Billing_Address button tab
+2023-03-24 15:30:47,959 - KalcyBook_App -INFO - user click on Due_Date button tab
+2023-03-24 15:30:51,251 - KalcyBook_App -INFO - user click on Shipping_Address button tab
+2023-03-24 15:30:54,513 - KalcyBook_App -INFO - user click on Product button tab
+2023-03-24 15:30:57,751 - KalcyBook_App -INFO - user click on Qty button tab
+2023-03-24 15:31:00,940 - KalcyBook_App -INFO - user click on Discount button tab
+2023-03-24 15:31:04,080 - KalcyBook_App -INFO - user click on Add_more_row button tab
+2023-03-24 15:31:07,172 - KalcyBook_App -INFO - user click on Delete_row button tab
+2023-03-24 15:31:10,383 - KalcyBook_App -INFO - user click on Note_tab
+2023-03-24 15:31:13,458 - KalcyBook_App -INFO - user click on Attachment tab
+2023-03-24 15:31:16,719 - KalcyBook_App -INFO - user click on Addition_Roundup_button_tab
+2023-03-24 15:31:19,881 - KalcyBook_App -INFO - user click on Round_up_valu_button_tab
+2023-03-24 15:31:24,336 - KalcyBook_App -INFO - user click on Update_button_tab
+2023-03-24 15:35:15,695 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 15:35:18,844 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 15:35:28,543 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 15:35:35,933 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 15:35:39,059 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 15:35:42,131 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 15:35:45,223 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 15:35:48,343 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 15:35:51,462 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 15:35:54,575 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-03-24 15:35:57,854 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 15:36:01,285 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 15:36:06,497 - KalcyBook_App -INFO - user click on Edit_Invoice button tab
+2023-03-24 15:36:09,761 - KalcyBook_App -INFO - user click on Select_Client and select the client Firstclient ( Sundry Debtors ) form dropdown button tab
+2023-03-24 15:36:13,135 - KalcyBook_App -INFO - user click on Date button tab
+2023-03-24 15:36:16,408 - KalcyBook_App -INFO - user click on Billing_Address button tab
+2023-03-24 15:36:19,757 - KalcyBook_App -INFO - user click on Due_Date button tab
+2023-03-24 15:36:23,007 - KalcyBook_App -INFO - user click on Shipping_Address button tab
+2023-03-24 15:36:27,083 - KalcyBook_App -INFO - user click on Product button tab
+2023-03-24 15:36:30,276 - KalcyBook_App -INFO - user click on Qty button tab
+2023-03-24 15:36:33,561 - KalcyBook_App -INFO - user click on Discount button tab
+2023-03-24 15:36:36,721 - KalcyBook_App -INFO - user click on Add_more_row button tab
+2023-03-24 15:36:39,880 - KalcyBook_App -INFO - user click on Delete_row button tab
+2023-03-24 15:36:43,141 - KalcyBook_App -INFO - user click on Note_tab
+2023-03-24 15:36:46,273 - KalcyBook_App -INFO - user click on Attachment tab
+2023-03-24 15:36:49,505 - KalcyBook_App -INFO - user click on Addition_Roundup_button_tab
+2023-03-24 15:36:52,674 - KalcyBook_App -INFO - user click on Round_up_valu_button_tab
+2023-03-24 15:36:57,044 - KalcyBook_App -INFO - user click on Update_button_tab
+2023-03-24 15:38:40,830 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 15:38:43,971 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 15:38:56,788 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 15:39:02,072 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 15:39:05,211 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 15:39:08,349 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 15:39:11,478 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 15:39:14,613 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 15:39:17,739 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 15:39:20,875 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-03-24 15:39:24,186 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 15:39:27,609 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 15:39:33,542 - KalcyBook_App -INFO - user click on Edit_Invoice button tab
+2023-03-24 15:39:36,786 - KalcyBook_App -INFO - user click on Select_Client and select the client Firstclient ( Sundry Debtors ) form dropdown button tab
+2023-03-24 15:39:40,129 - KalcyBook_App -INFO - user click on Date button tab
+2023-03-24 15:39:43,409 - KalcyBook_App -INFO - user click on Billing_Address button tab
+2023-03-24 15:39:46,787 - KalcyBook_App -INFO - user click on Due_Date button tab
+2023-03-24 15:39:50,061 - KalcyBook_App -INFO - user click on Shipping_Address button tab
+2023-03-24 15:39:55,415 - KalcyBook_App -INFO - user click on Product button tab
+2023-03-24 15:39:58,590 - KalcyBook_App -INFO - user click on Qty button tab
+2023-03-24 15:40:01,812 - KalcyBook_App -INFO - user click on Discount button tab
+2023-03-24 15:40:04,957 - KalcyBook_App -INFO - user click on Add_more_row button tab
+2023-03-24 15:40:08,071 - KalcyBook_App -INFO - user click on Delete_row button tab
+2023-03-24 15:40:11,293 - KalcyBook_App -INFO - user click on Note_tab
+2023-03-24 15:40:14,372 - KalcyBook_App -INFO - user click on Attachment tab
+2023-03-24 15:40:17,665 - KalcyBook_App -INFO - user click on Addition_Roundup_button_tab
+2023-03-24 15:40:20,867 - KalcyBook_App -INFO - user click on Round_up_valu_button_tab
+2023-03-24 15:40:26,426 - KalcyBook_App -INFO - user click on Update_button_tab
+2023-03-24 15:46:14,779 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 15:46:17,915 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 15:46:28,883 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 15:46:34,035 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 15:46:37,161 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 15:46:40,287 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 15:46:43,414 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 15:46:46,537 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 15:46:49,668 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 15:46:52,775 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-03-24 15:46:56,212 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 15:46:59,704 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 15:47:04,907 - KalcyBook_App -INFO - user click on Edit_Invoice button tab
+2023-03-24 15:47:08,117 - KalcyBook_App -INFO - user click on Select_Client and select the client Firstclient ( Sundry Debtors ) form dropdown button tab
+2023-03-24 15:47:11,531 - KalcyBook_App -INFO - user click on Date button tab
+2023-03-24 15:47:14,823 - KalcyBook_App -INFO - user click on Billing_Address button tab
+2023-03-24 15:47:18,258 - KalcyBook_App -INFO - user click on Due_Date button tab
+2023-03-24 15:47:21,541 - KalcyBook_App -INFO - user click on Shipping_Address button tab
+2023-03-24 15:48:43,522 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 15:48:46,691 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 15:48:58,144 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 15:49:03,883 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 15:49:07,026 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 15:49:10,175 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 15:49:13,276 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 15:49:16,368 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 15:49:19,516 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 15:49:22,644 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-03-24 15:49:25,984 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 15:49:29,435 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 15:49:35,024 - KalcyBook_App -INFO - user click on Edit_Invoice button tab
+2023-03-24 15:49:38,308 - KalcyBook_App -INFO - user click on Select_Client and select the client Firstclient ( Sundry Debtors ) form dropdown button tab
+2023-03-24 15:49:41,793 - KalcyBook_App -INFO - user click on Date button tab
+2023-03-24 15:49:45,092 - KalcyBook_App -INFO - user click on Billing_Address button tab
+2023-03-24 15:49:48,548 - KalcyBook_App -INFO - user click on Due_Date button tab
+2023-03-24 15:49:51,752 - KalcyBook_App -INFO - user click on Shipping_Address button tab
+2023-03-24 15:51:53,577 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 15:51:56,714 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 15:52:05,821 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 15:52:11,197 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 15:52:14,288 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 15:52:17,425 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 15:52:20,541 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 15:52:23,654 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 15:52:26,785 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 15:52:29,928 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-03-24 15:52:33,237 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 15:52:36,722 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 15:52:41,558 - KalcyBook_App -INFO - user click on Edit_Invoice button tab
+2023-03-24 15:52:44,865 - KalcyBook_App -INFO - user click on Select_Client and select the client Firstclient ( Sundry Debtors ) form dropdown button tab
+2023-03-24 15:52:48,338 - KalcyBook_App -INFO - user click on Date button tab
+2023-03-24 15:52:51,561 - KalcyBook_App -INFO - user click on Billing_Address button tab
+2023-03-24 15:52:55,040 - KalcyBook_App -INFO - user click on Due_Date button tab
+2023-03-24 15:52:58,260 - KalcyBook_App -INFO - user click on Shipping_Address button tab
+2023-03-24 15:54:11,510 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 15:54:14,687 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 15:54:23,257 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 15:54:29,354 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 15:54:32,453 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 15:54:35,602 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 15:54:38,711 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 15:54:41,847 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 15:54:44,966 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 15:54:48,061 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-03-24 15:54:51,369 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 15:54:54,827 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 15:54:59,769 - KalcyBook_App -INFO - user click on Edit_Invoice button tab
+2023-03-24 15:55:03,071 - KalcyBook_App -INFO - user click on Select_Client and select the client Firstclient ( Sundry Debtors ) form dropdown button tab
+2023-03-24 15:55:06,597 - KalcyBook_App -INFO - user click on Date button tab
+2023-03-24 15:55:09,947 - KalcyBook_App -INFO - user click on Billing_Address button tab
+2023-03-24 15:55:13,420 - KalcyBook_App -INFO - user click on Due_Date button tab
+2023-03-24 15:55:16,710 - KalcyBook_App -INFO - user click on Shipping_Address button tab
+2023-03-24 15:55:20,790 - KalcyBook_App -INFO - user click on Product button tab
+2023-03-24 15:55:24,039 - KalcyBook_App -INFO - user click on Qty button tab
+2023-03-24 15:55:27,262 - KalcyBook_App -INFO - user click on Discount button tab
+2023-03-24 15:55:30,416 - KalcyBook_App -INFO - user click on Add_more_row button tab
+2023-03-24 15:55:33,550 - KalcyBook_App -INFO - user click on Delete_row button tab
+2023-03-24 15:55:36,751 - KalcyBook_App -INFO - user click on Note_tab
+2023-03-24 15:55:39,845 - KalcyBook_App -INFO - user click on Attachment tab
+2023-03-24 15:55:43,148 - KalcyBook_App -INFO - user click on Addition_Roundup_button_tab
+2023-03-24 15:57:08,280 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 15:57:11,427 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 15:57:20,616 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 15:57:26,676 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 15:57:29,808 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 15:57:33,028 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 15:57:36,124 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 15:57:39,228 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 15:57:42,369 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 15:57:45,521 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-03-24 15:57:49,018 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 15:57:52,520 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 15:57:57,249 - KalcyBook_App -INFO - user click on Edit_Invoice button tab
+2023-03-24 15:58:00,471 - KalcyBook_App -INFO - user click on Select_Client and select the client Firstclient ( Sundry Debtors ) form dropdown button tab
+2023-03-24 15:58:03,899 - KalcyBook_App -INFO - user click on Date button tab
+2023-03-24 15:58:07,119 - KalcyBook_App -INFO - user click on Billing_Address button tab
+2023-03-24 15:58:10,540 - KalcyBook_App -INFO - user click on Due_Date button tab
+2023-03-24 15:58:13,801 - KalcyBook_App -INFO - user click on Shipping_Address button tab
+2023-03-24 15:58:17,953 - KalcyBook_App -INFO - user click on Product button tab
+2023-03-24 15:58:21,179 - KalcyBook_App -INFO - user click on Qty button tab
+2023-03-24 15:58:24,407 - KalcyBook_App -INFO - user click on Discount button tab
+2023-03-24 15:58:27,535 - KalcyBook_App -INFO - user click on Add_more_row button tab
+2023-03-24 15:58:30,656 - KalcyBook_App -INFO - user click on Delete_row button tab
+2023-03-24 15:58:33,902 - KalcyBook_App -INFO - user click on Note_tab
+2023-03-24 15:58:37,002 - KalcyBook_App -INFO - user click on Attachment tab
+2023-03-24 15:58:40,299 - KalcyBook_App -INFO - user click on Addition_Roundup_button_tab
+2023-03-24 15:58:43,499 - KalcyBook_App -INFO - user click on Round_up_valu_button_tab
+2023-03-24 15:58:48,108 - KalcyBook_App -INFO - user click on Update_button_tab
+2023-03-24 16:00:46,689 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 16:00:49,830 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 16:00:58,644 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 16:01:04,030 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 16:01:07,161 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 16:01:10,302 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 16:01:13,411 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 16:01:16,486 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 16:01:19,635 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 16:01:22,777 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-03-24 16:01:26,093 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 16:01:29,736 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 16:01:34,644 - KalcyBook_App -INFO - user click on Edit_Invoice button tab
+2023-03-24 16:01:37,996 - KalcyBook_App -INFO - user click on Select_Client and select the client Firstclient ( Sundry Debtors ) form dropdown button tab
+2023-03-24 16:01:41,469 - KalcyBook_App -INFO - user click on Date button tab
+2023-03-24 16:01:44,778 - KalcyBook_App -INFO - user click on Billing_Address button tab
+2023-03-24 16:01:48,367 - KalcyBook_App -INFO - user click on Due_Date button tab
+2023-03-24 16:01:51,608 - KalcyBook_App -INFO - user click on Shipping_Address button tab
+2023-03-24 16:01:55,626 - KalcyBook_App -INFO - user click on Product button tab
+2023-03-24 16:01:58,853 - KalcyBook_App -INFO - user click on Qty button tab
+2023-03-24 16:02:02,069 - KalcyBook_App -INFO - user click on Discount button tab
+2023-03-24 16:02:05,195 - KalcyBook_App -INFO - user click on Add_more_row button tab
+2023-03-24 16:02:08,317 - KalcyBook_App -INFO - user click on Delete_row button tab
+2023-03-24 16:02:11,553 - KalcyBook_App -INFO - user click on Note_tab
+2023-03-24 16:02:14,646 - KalcyBook_App -INFO - user click on Attachment tab
+2023-03-24 16:02:17,917 - KalcyBook_App -INFO - user click on Addition_Roundup_button_tab
+2023-03-24 16:02:21,092 - KalcyBook_App -INFO - user click on Round_up_valu_button_tab
+2023-03-24 16:02:26,426 - KalcyBook_App -INFO - user click on Update_button_tab
+2023-03-24 16:09:40,503 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 16:09:43,652 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 16:09:52,675 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 16:09:58,073 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 16:10:01,148 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 16:10:04,274 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 16:10:07,364 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 16:10:10,486 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 16:10:13,634 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 16:10:16,736 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-03-24 16:10:20,071 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 16:10:23,571 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 16:10:28,431 - KalcyBook_App -INFO - user click on Edit_Invoice button tab
+2023-03-24 16:10:31,636 - KalcyBook_App -INFO - user click on Select_Client and select the client Firstclient ( Sundry Debtors ) form dropdown button tab
+2023-03-24 16:10:35,189 - KalcyBook_App -INFO - user click on Date button tab
+2023-03-24 16:10:38,443 - KalcyBook_App -INFO - user click on Billing_Address button tab
+2023-03-24 16:10:41,921 - KalcyBook_App -INFO - user click on Due_Date button tab
+2023-03-24 16:10:45,150 - KalcyBook_App -INFO - user click on Shipping_Address button tab
+2023-03-24 16:10:49,343 - KalcyBook_App -INFO - user click on Product button tab
+2023-03-24 16:10:52,541 - KalcyBook_App -INFO - user click on Qty button tab
+2023-03-24 16:10:55,718 - KalcyBook_App -INFO - user click on Discount button tab
+2023-03-24 16:10:58,824 - KalcyBook_App -INFO - user click on Add_more_row button tab
+2023-03-24 16:11:01,963 - KalcyBook_App -INFO - user click on Delete_row button tab
+2023-03-24 16:11:05,192 - KalcyBook_App -INFO - user click on Note_tab
+2023-03-24 16:11:08,295 - KalcyBook_App -INFO - user click on Attachment tab
+2023-03-24 16:11:11,597 - KalcyBook_App -INFO - user click on Addition_Roundup_button_tab
+2023-03-24 16:11:14,806 - KalcyBook_App -INFO - user click on Round_up_valu_button_tab
+2023-03-24 16:11:19,210 - KalcyBook_App -INFO - user click on Update_button_tab
+2023-03-24 16:18:24,036 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 16:18:27,175 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 16:18:36,800 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 16:18:42,707 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 16:18:45,859 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 16:18:49,002 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 16:18:52,094 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 16:18:55,212 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 16:18:58,352 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 16:19:01,500 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-03-24 16:19:04,805 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 16:19:08,296 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 16:19:13,159 - KalcyBook_App -INFO - user click on Edit_Invoice button tab
+2023-03-24 16:19:16,431 - KalcyBook_App -INFO - user click on Select_Client and select the client Firstclient ( Sundry Debtors ) form dropdown button tab
+2023-03-24 16:19:19,978 - KalcyBook_App -INFO - user click on Date button tab
+2023-03-24 16:19:23,275 - KalcyBook_App -INFO - user click on Billing_Address button tab
+2023-03-24 16:19:26,651 - KalcyBook_App -INFO - user click on Due_Date button tab
+2023-03-24 16:19:29,915 - KalcyBook_App -INFO - user click on Shipping_Address button tab
+2023-03-24 16:19:34,129 - KalcyBook_App -INFO - user click on Product button tab
+2023-03-24 16:19:37,370 - KalcyBook_App -INFO - user click on Qty button tab
+2023-03-24 16:19:40,612 - KalcyBook_App -INFO - user click on Discount button tab
+2023-03-24 16:19:43,741 - KalcyBook_App -INFO - user click on Add_more_row button tab
+2023-03-24 16:19:46,868 - KalcyBook_App -INFO - user click on Delete_row button tab
+2023-03-24 16:19:50,031 - KalcyBook_App -INFO - user click on Note_tab
+2023-03-24 16:19:53,106 - KalcyBook_App -INFO - user click on Attachment tab
+2023-03-24 16:19:56,422 - KalcyBook_App -INFO - user click on Addition_Roundup_button_tab
+2023-03-24 16:19:59,611 - KalcyBook_App -INFO - user click on Round_up_valu_button_tab
+2023-03-24 16:20:05,467 - KalcyBook_App -INFO - user click on Update_button_tab
+2023-03-24 16:24:40,491 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 16:24:43,630 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 16:24:52,304 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 16:24:57,896 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 16:25:00,982 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 16:25:04,110 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 16:25:07,233 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 16:25:10,342 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 16:25:13,487 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 16:25:16,624 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-03-24 16:25:19,971 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 16:25:23,473 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 16:25:28,831 - KalcyBook_App -INFO - user click on Edit_Invoice button tab
+2023-03-24 16:25:32,108 - KalcyBook_App -INFO - user click on Select_Client and select the client Firstclient ( Sundry Debtors ) form dropdown button tab
+2023-03-24 16:25:35,479 - KalcyBook_App -INFO - user click on Date button tab
+2023-03-24 16:25:38,792 - KalcyBook_App -INFO - user click on Billing_Address button tab
+2023-03-24 16:25:42,228 - KalcyBook_App -INFO - user click on Due_Date button tab
+2023-03-24 16:25:45,442 - KalcyBook_App -INFO - user click on Shipping_Address button tab
+2023-03-24 16:25:49,695 - KalcyBook_App -INFO - user click on Product button tab
+2023-03-24 16:25:53,030 - KalcyBook_App -INFO - user click on Qty button tab
+2023-03-24 16:25:56,257 - KalcyBook_App -INFO - user click on Discount button tab
+2023-03-24 16:25:59,328 - KalcyBook_App -INFO - user click on Add_more_row button tab
+2023-03-24 16:26:02,459 - KalcyBook_App -INFO - user click on Delete_row button tab
+2023-03-24 16:26:05,693 - KalcyBook_App -INFO - user click on Note_tab
+2023-03-24 16:26:08,792 - KalcyBook_App -INFO - user click on Attachment tab
+2023-03-24 16:26:12,093 - KalcyBook_App -INFO - user click on Addition_Roundup_button_tab
+2023-03-24 16:26:15,265 - KalcyBook_App -INFO - user click on Round_up_valu_button_tab
+2023-03-24 16:26:24,195 - KalcyBook_App -INFO - user click on Update_button_tab
+2023-03-24 16:28:14,196 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-24 16:28:17,354 - KalcyBook_App -INFO - User should be Entered password
+2023-03-24 16:28:26,094 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-24 16:28:31,279 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-24 16:28:34,361 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-24 16:28:37,507 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-24 16:28:40,602 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-24 16:28:43,680 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-24 16:28:46,786 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-24 16:28:49,886 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-03-24 16:28:53,210 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-24 16:28:56,629 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-24 16:29:01,358 - KalcyBook_App -INFO - user click on Edit_Invoice button tab
+2023-03-24 16:29:04,625 - KalcyBook_App -INFO - user click on Select_Client and select the client Firstclient ( Sundry Debtors ) form dropdown button tab
+2023-03-24 16:29:08,079 - KalcyBook_App -INFO - user click on Date button tab
+2023-03-24 16:29:11,328 - KalcyBook_App -INFO - user click on Billing_Address button tab
+2023-03-24 16:29:14,767 - KalcyBook_App -INFO - user click on Due_Date button tab
+2023-03-24 16:29:18,042 - KalcyBook_App -INFO - user click on Shipping_Address button tab
+2023-03-24 16:29:21,330 - KalcyBook_App -INFO - user click on Product button tab
+2023-03-24 16:29:24,655 - KalcyBook_App -INFO - user click on Qty button tab
+2023-03-24 16:29:27,906 - KalcyBook_App -INFO - user click on Discount button tab
+2023-03-24 16:29:31,016 - KalcyBook_App -INFO - user click on Add_more_row button tab
+2023-03-24 16:29:34,106 - KalcyBook_App -INFO - user click on Delete_row button tab
+2023-03-24 16:29:37,339 - KalcyBook_App -INFO - user click on Note_tab
+2023-03-24 16:29:40,439 - KalcyBook_App -INFO - user click on Attachment tab
+2023-03-24 16:29:43,716 - KalcyBook_App -INFO - user click on Addition_Roundup_button_tab
+2023-03-24 16:29:46,880 - KalcyBook_App -INFO - user click on Round_up_valu_button_tab
+2023-03-24 16:29:53,086 - KalcyBook_App -INFO - user click on Update_button_tab
+2023-03-25 11:37:53,250 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-25 11:37:56,394 - KalcyBook_App -INFO - User should be Entered password
+2023-03-25 11:38:05,100 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-25 11:38:11,035 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-25 11:38:14,109 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-25 11:38:17,242 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-25 11:38:20,339 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-25 11:38:23,448 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-25 11:38:26,580 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-25 11:38:29,672 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-03-25 11:38:33,045 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-25 11:38:36,555 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-25 11:38:41,439 - KalcyBook_App -INFO - user click on Edit_Invoice button tab
+2023-03-25 11:38:44,694 - KalcyBook_App -INFO - user click on Select_Client and select the client Firstclient ( Sundry Debtors ) form dropdown button tab
+2023-03-25 11:38:48,127 - KalcyBook_App -INFO - user click on Date button tab
+2023-03-25 11:38:51,400 - KalcyBook_App -INFO - user click on Billing_Address button tab
+2023-03-25 11:38:54,837 - KalcyBook_App -INFO - user click on Due_Date button tab
+2023-03-25 11:38:58,118 - KalcyBook_App -INFO - user click on Shipping_Address button tab
+2023-03-25 11:39:01,455 - KalcyBook_App -INFO - user click on Product button tab
+2023-03-25 11:39:04,665 - KalcyBook_App -INFO - user click on Qty button tab
+2023-03-25 11:39:07,895 - KalcyBook_App -INFO - user click on Discount button tab
+2023-03-25 11:39:11,001 - KalcyBook_App -INFO - user click on Add_more_row button tab
+2023-03-25 11:39:14,131 - KalcyBook_App -INFO - user click on Delete_row button tab
+2023-03-25 11:39:17,360 - KalcyBook_App -INFO - user click on Note_tab
+2023-03-25 11:39:20,451 - KalcyBook_App -INFO - user click on Attachment tab
+2023-03-25 11:39:23,730 - KalcyBook_App -INFO - user click on Addition_Roundup_button_tab
+2023-03-25 11:39:26,851 - KalcyBook_App -INFO - user click on Round_up_valu_button_tab
+2023-03-25 11:39:32,758 - KalcyBook_App -INFO - user click on Update_button_tab
+2023-03-25 11:39:37,518 - KalcyBook_App -INFO - user click on Copy_invoice icon_button_tab
+2023-03-25 11:39:41,998 - KalcyBook_App -INFO - user click on View_invoice icon_button_tab
+2023-03-27 09:53:29,362 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-27 09:53:32,527 - KalcyBook_App -INFO - User should be Entered password
+2023-03-27 09:53:40,975 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-27 09:53:45,808 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-27 09:53:48,887 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-27 09:53:52,025 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-27 09:53:55,104 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-27 09:53:58,229 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-27 09:54:01,352 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-27 09:54:04,496 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-03-27 09:54:07,841 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-27 09:54:11,303 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-27 09:54:15,734 - KalcyBook_App -INFO - user click on Edit_Invoice button tab
+2023-03-27 09:54:18,989 - KalcyBook_App -INFO - user click on Select_Client and select the client Firstclient ( Sundry Debtors ) form dropdown button tab
+2023-03-27 09:54:22,372 - KalcyBook_App -INFO - user click on Date button tab
+2023-03-27 09:54:25,654 - KalcyBook_App -INFO - user click on Billing_Address button tab
+2023-03-27 09:54:29,032 - KalcyBook_App -INFO - user click on Due_Date button tab
+2023-03-27 09:54:32,268 - KalcyBook_App -INFO - user click on Shipping_Address button tab
+2023-03-27 09:54:35,531 - KalcyBook_App -INFO - user click on Product button tab
+2023-03-27 09:54:38,741 - KalcyBook_App -INFO - user click on Qty button tab
+2023-03-27 09:54:41,971 - KalcyBook_App -INFO - user click on Discount button tab
+2023-03-27 09:54:45,091 - KalcyBook_App -INFO - user click on Add_more_row button tab
+2023-03-27 09:54:48,167 - KalcyBook_App -INFO - user click on Delete_row button tab
+2023-03-27 09:54:51,339 - KalcyBook_App -INFO - user click on Note_tab
+2023-03-27 09:54:54,440 - KalcyBook_App -INFO - user click on Attachment tab
+2023-03-27 09:54:57,736 - KalcyBook_App -INFO - user click on Addition_Roundup_button_tab
+2023-03-27 09:55:00,867 - KalcyBook_App -INFO - user click on Round_up_valu_button_tab
+2023-03-27 09:55:05,841 - KalcyBook_App -INFO - user click on Update_button_tab
+2023-03-27 09:55:10,354 - KalcyBook_App -INFO - user click on Copy_invoice icon_button_tab
+2023-03-27 09:55:14,623 - KalcyBook_App -INFO - user click on View_invoice icon_button_tab
+2023-03-27 12:48:33,502 - KalcyBook_App -INFO - User should be Entered Username
+2023-03-27 12:48:36,611 - KalcyBook_App -INFO - User should be Entered password
+2023-03-27 12:48:45,255 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-03-27 12:48:50,510 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-03-27 12:48:53,602 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-03-27 12:48:56,673 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-03-27 12:48:59,739 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-03-27 12:49:02,813 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-03-27 12:49:05,897 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-03-27 12:49:09,008 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-03-27 12:49:12,240 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-03-27 12:49:15,680 - KalcyBook_App -INFO - user click on All_search button tab
+2023-03-27 12:49:19,758 - KalcyBook_App -INFO - user click on Edit_Invoice button tab
+2023-03-27 12:49:22,936 - KalcyBook_App -INFO - user click on Select_Client and select the client Firstclient ( Sundry Debtors ) form dropdown button tab
+2023-03-27 12:49:26,199 - KalcyBook_App -INFO - user click on Date button tab
+2023-03-27 12:49:29,348 - KalcyBook_App -INFO - user click on Billing_Address button tab
+2023-03-27 12:49:32,641 - KalcyBook_App -INFO - user click on Due_Date button tab
+2023-03-27 12:49:35,827 - KalcyBook_App -INFO - user click on Shipping_Address button tab
+2023-03-27 12:49:38,997 - KalcyBook_App -INFO - user click on Product button tab
+2023-03-27 12:49:42,178 - KalcyBook_App -INFO - user click on Qty button tab
+2023-03-27 12:49:45,317 - KalcyBook_App -INFO - user click on Discount button tab
+2023-03-27 12:49:48,394 - KalcyBook_App -INFO - user click on Add_more_row button tab
+2023-03-27 12:49:51,468 - KalcyBook_App -INFO - user click on Delete_row button tab
+2023-03-27 12:49:54,602 - KalcyBook_App -INFO - user click on Note_tab
+2023-03-27 12:49:57,704 - KalcyBook_App -INFO - user click on Attachment tab
+2023-03-27 12:50:00,895 - KalcyBook_App -INFO - user click on Addition_Roundup_button_tab
+2023-03-27 12:50:03,998 - KalcyBook_App -INFO - user click on Round_up_valu_button_tab
+2023-03-27 12:50:11,192 - KalcyBook_App -INFO - user click on Update_button_tab
+2023-03-27 12:50:16,612 - KalcyBook_App -INFO - user click on Copy_invoice icon_button_tab
+2023-03-27 12:50:20,838 - KalcyBook_App -INFO - user click on View_invoice icon_button_tab
+2023-04-06 17:24:24,291 - KalcyBook_App -INFO - User should be Entered Username
+2023-04-06 17:24:27,538 - KalcyBook_App -INFO - User should be Entered password
+2023-04-06 17:24:37,362 - KalcyBook_App -INFO -  user should be click on next button and Entered in homepage of kalcy_Book
+2023-04-06 17:24:48,248 - KalcyBook_App -INFO - user click on Invoice button Icon and entered in Invoice functionality page
+2023-04-06 17:24:51,322 - KalcyBook_App -INFO - user click on Purchase_Invoice button tab
+2023-04-06 17:24:54,395 - KalcyBook_App -INFO - user click on Sales_Invoice button tab
+2023-04-06 17:24:57,464 - KalcyBook_App -INFO - user click on Sales_To_SEZ button tab
+2023-04-06 17:25:00,541 - KalcyBook_App -INFO - user click on Export_Sales button tab
+2023-04-06 17:25:03,603 - KalcyBook_App -INFO - user click on All_Invoices button tab
+2023-04-06 17:25:06,679 - KalcyBook_App -INFO - user click on Regular_Sales button tab
+2023-04-06 17:25:09,925 - KalcyBook_App -INFO - user click on Show_Entries button tab
+2023-04-06 17:25:13,074 - KalcyBook_App -INFO - user click on All_search button tab
+2023-04-06 17:27:19,242 - KalcyBook_App -INFO - URL is opened
+2023-04-06 17:27:19,752 - KalcyBook_App -INFO - Entered password
+2023-04-06 17:27:28,506 - KalcyBook_App -INFO -  user Entered
+2023-04-07 00:19:12,617 - KalcyBook_App -INFO - URL is opened
+2023-04-07 00:19:13,138 - KalcyBook_App -INFO - Entered password
+2023-04-07 00:19:21,020 - KalcyBook_App -INFO -  user Entered
+2023-04-07 00:21:13,055 - KalcyBook_App -INFO - URL is opened
+2023-04-07 00:21:13,564 - KalcyBook_App -INFO - Entered password
+2023-04-07 00:21:22,161 - KalcyBook_App -INFO -  user Entered
+2023-04-07 00:23:56,777 - KalcyBook_App -INFO - URL is opened
+2023-04-07 00:23:57,282 - KalcyBook_App -INFO - Entered password
+2023-04-07 00:24:06,574 - KalcyBook_App -INFO -  user Entered
+2023-04-07 12:13:00,959 - KalcyBook_App -INFO - URL is opened
+2023-04-07 12:13:01,366 - KalcyBook_App -INFO - Entered password
+2023-04-07 12:13:11,044 - KalcyBook_App -INFO -  user Entered
+2023-04-07 12:24:51,165 - KalcyBook_App -INFO - URL is opened
+2023-04-07 12:24:51,540 - KalcyBook_App -INFO - Entered password
+2023-04-07 12:24:58,633 - KalcyBook_App -INFO -  user Entered
+2023-04-07 12:34:06,303 - KalcyBook_App -INFO - URL is opened
+2023-04-07 12:34:06,733 - KalcyBook_App -INFO - Entered password
+2023-04-07 12:34:14,137 - KalcyBook_App -INFO -  user Entered
+2023-04-07 14:46:27,557 - KalcyBook_App -INFO - URL is opened
+2023-04-07 14:46:27,810 - KalcyBook_App -INFO - Entered password
+2023-04-07 14:46:35,138 - KalcyBook_App -INFO -  user Entered
+2023-04-07 14:53:02,706 - KalcyBook_App -INFO - URL is opened
+2023-04-07 14:53:02,973 - KalcyBook_App -INFO - Entered password
+2023-04-07 14:53:10,225 - KalcyBook_App -INFO -  user Entered
+2023-04-07 15:03:04,188 - KalcyBook_App -INFO - Entered Username
+2023-04-07 15:03:07,306 - KalcyBook_App -INFO - Entered password
+2023-04-07 15:03:14,657 - KalcyBook_App -INFO -  user Entered
+2023-04-07 15:03:20,313 - KalcyBook_App -INFO - user click on payment tab
+2023-04-07 15:03:24,478 - KalcyBook_App -INFO - user click on New button 
+2023-04-07 15:03:27,541 - KalcyBook_App -INFO - user click on SelectLedger tab
+2023-04-07 15:03:30,676 - KalcyBook_App -INFO - user click on SelectLedger Search tab
+2023-04-07 15:03:34,181 - KalcyBook_App -INFO - user click on SelectLedger Search tabindex
+2023-04-07 15:03:37,379 - KalcyBook_App -INFO - user click on paymentdate tab
+2023-04-07 15:03:40,487 - KalcyBook_App -INFO - user click on Select address  tab
+2023-04-07 15:03:43,698 - KalcyBook_App -INFO - user click on Select address Search  tab
+2023-04-07 15:03:49,430 - KalcyBook_App -INFO - user click on SelectAddress Search tabindex
+2023-04-07 15:03:52,716 - KalcyBook_App -INFO - user click on payment type tab
+2023-04-07 15:03:55,983 - KalcyBook_App -INFO - user click on PaymentThrough tab
+2023-04-07 15:03:59,191 - KalcyBook_App -INFO - user click on AdjustmentMethod tab
+2023-04-07 15:04:02,288 - KalcyBook_App -INFO - user click on Narration tab
+2023-04-07 15:04:07,190 - KalcyBook_App -INFO - user click on Submit tab

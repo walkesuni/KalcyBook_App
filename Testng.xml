@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="KalcyBook_App">
+
+<listeners>
+
+<listener class-name="com.KalcyBook_App.utilities.Reporting"/>
+
+</listeners>
+ 
+<test name ="KalcyBook_App Test">
+
+
+<parameter name = "browser" value="chrome"/>
+<classes>
+
+<class name = "com.KalcyBook_App.testCases.TC_Addpaymenttest_004"/>
+
+
+
+
+
+
+</classes>
+</test>
+</suite>
